@@ -78,7 +78,7 @@ export default function Home() {
                   </h1>
                 </div>
 
-                <div className="flex flex-col bg-indigo-50 items-center justify-center w-full h-full lg:w-4/12 lg:h-50 md:p-1 p-4 shadow-md blur-3 rounded-lg bg-opacity-25  mb-4 hover:shadow-xl lg:hover:-translate-y-12 scale-90 hover:scale-100 md:scale-100 duration-700 ">
+                <div className="flex flex-col bg-indigo-50 items-center justify-center w-full h-full lg:w-4/12 lg:h-50 p-4 shadow-md blur-3 rounded-lg bg-opacity-25  mb-4 hover:shadow-xl lg:hover:-translate-y-12 scale-90 hover:scale-100 md:scale-100 duration-700 ">
                   <h1 className=" text-center text-md font-bold ">
                     30%{" "}
                     <span className="text-pink-900 dark:text-indigo-500">
