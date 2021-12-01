@@ -20,27 +20,27 @@ export default function Footer() {
                 <Twitter />
               </a>
             </Link>
-            <Link href="/" passHref>
-              {/* <a href="/" target="_top" rel="noopener"> */}
+            {/* <Link href="/" passHref>
+              <a href="/" target="_top" rel="noopener">
               <a>
                 <span className="sr-only">Facebook</span>
                 <Facebook />
               </a>
             </Link>
             <Link href="/" passHref>
-              {/* <a href="/" target="_top" rel="noopener"> */}
+              <a href="/" target="_top" rel="noopener">
               <a>
                 <span className="sr-only">Instagram</span>
                 <Instagram />
               </a>
             </Link>
             <Link href="/" passHref>
-              {/* <a href="/" target="_top" rel="noopener"> */}
+              <a href="/" target="_top" rel="noopener">
               <a>
                 <span className="sr-only">Linkedin</span>
                 <Linkedin />
               </a>
-            </Link>
+            </Link> */}
           </div>
         </div>
       </div>
