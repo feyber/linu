@@ -12,7 +12,7 @@ export default function Footer() {
       <div className="flex max-w-screen-xl gap-10 pt-10 mx-auto mt-5 border-t border-gray-100 dark:border-trueGray-700 lg:grid-cols-5">
         <div className="pl-2 text-center">
           <div>Follow us</div>
-          <div className="flex mt-8 space-x-10 text-gray-800 dark:text-gray-500">
+          <div className="flex mt-8 mx-4 text-gray-800 dark:text-gray-500">
             <Link href="https://twitter.com/LittleInuSol" passHref>
               {/* <a href="/" target="_top" rel="noopener"> */}
               <a>

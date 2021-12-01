@@ -82,7 +82,7 @@ export default function Home() {
                   <h1 className=" text-center text-md font-bold ">
                     30%{" "}
                     <span className="text-pink-900 dark:text-indigo-500">
-                      releasing for Liquidity
+                      for Liquidity
                     </span>
                   </h1>
                 </div>
