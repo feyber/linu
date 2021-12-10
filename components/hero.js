@@ -37,7 +37,7 @@ export default function Hero() {
             </p>
 
             <div className="flex flex-col items-start space-x-3 space-y-3 sm:space-y-0 sm:items-center sm:flex-row">
-              <Link href="https://discord.com/invite/T7xQjjFrEb" passHref>
+              <Link href="https://discord.gg/littleinusol" passHref>
                 <a
                   rel="noopener"
                   className="z-30 px-4 py-2  mt-2 text-base font-medium text-center text-white bg-gradient-to-r from-green-400 via-purple-500 to-pink-400 rounded-md  md:px-6 md:py-3 lg:text-lg hover:translate-y-2 duration-500"
